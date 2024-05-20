@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+// friend bar branch
 
 struct ContentView: View {
     var body: some View {
