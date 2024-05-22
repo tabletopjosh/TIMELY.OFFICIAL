@@ -11,7 +11,7 @@ import SwiftUI
 struct TIMELY_OFFICIALApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }

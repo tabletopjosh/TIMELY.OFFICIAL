@@ -14,6 +14,16 @@
 		E83162C02BFBFD0A001D06D1 /* TIMELY_OFFICIALTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162BF2BFBFD0A001D06D1 /* TIMELY_OFFICIALTests.swift */; };
 		E83162CA2BFBFD0A001D06D1 /* TIMELY_OFFICIALUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162C92BFBFD0A001D06D1 /* TIMELY_OFFICIALUITests.swift */; };
 		E83162CC2BFBFD0A001D06D1 /* TIMELY_OFFICIALUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162CB2BFBFD0A001D06D1 /* TIMELY_OFFICIALUITestsLaunchTests.swift */; };
+		E83162D92BFE759D001D06D1 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162D82BFE759D001D06D1 /* HomeView.swift */; };
+		E83162DB2BFE75D0001D06D1 /* CreateScheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162DA2BFE75D0001D06D1 /* CreateScheduleView.swift */; };
+		E83162DD2BFE75F9001D06D1 /* FullScheduleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162DC2BFE75F9001D06D1 /* FullScheduleView.swift */; };
+		E83162DF2BFE7607001D06D1 /* StatsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162DE2BFE7607001D06D1 /* StatsView.swift */; };
+		E83162E12BFE763B001D06D1 /* FriendsStatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162E02BFE763B001D06D1 /* FriendsStatusView.swift */; };
+		E83162E32BFE765E001D06D1 /* AddFriendsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162E22BFE765E001D06D1 /* AddFriendsView.swift */; };
+		E83162E72BFE776C001D06D1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162E62BFE776C001D06D1 /* User.swift */; };
+		E83162E92BFE7918001D06D1 /* Activities .swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162E82BFE7918001D06D1 /* Activities .swift */; };
+		E83162EB2BFE7F22001D06D1 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162EA2BFE7F22001D06D1 /* ProfileView.swift */; };
+		E83162ED2BFE9A21001D06D1 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E83162EC2BFE9A21001D06D1 /* ChatView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +54,16 @@
 		E83162C52BFBFD0A001D06D1 /* TIMELY.OFFICIALUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TIMELY.OFFICIALUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E83162C92BFBFD0A001D06D1 /* TIMELY_OFFICIALUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TIMELY_OFFICIALUITests.swift; sourceTree = "<group>"; };
 		E83162CB2BFBFD0A001D06D1 /* TIMELY_OFFICIALUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TIMELY_OFFICIALUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E83162D82BFE759D001D06D1 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E83162DA2BFE75D0001D06D1 /* CreateScheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateScheduleView.swift; sourceTree = "<group>"; };
+		E83162DC2BFE75F9001D06D1 /* FullScheduleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScheduleView.swift; sourceTree = "<group>"; };
+		E83162DE2BFE7607001D06D1 /* StatsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatsView.swift; sourceTree = "<group>"; };
+		E83162E02BFE763B001D06D1 /* FriendsStatusView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsStatusView.swift; sourceTree = "<group>"; };
+		E83162E22BFE765E001D06D1 /* AddFriendsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFriendsView.swift; sourceTree = "<group>"; };
+		E83162E62BFE776C001D06D1 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		E83162E82BFE7918001D06D1 /* Activities .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Activities .swift"; sourceTree = "<group>"; };
+		E83162EA2BFE7F22001D06D1 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		E83162EC2BFE9A21001D06D1 /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +118,8 @@
 				E83162B02BFBFD09001D06D1 /* ContentView.swift */,
 				E83162B22BFBFD0A001D06D1 /* Assets.xcassets */,
 				E83162B42BFBFD0A001D06D1 /* Preview Content */,
+				E83162E52BFE7739001D06D1 /* Models */,
+				E83162E42BFE767A001D06D1 /* Views */,
 			);
 			path = TIMELY.OFFICIAL;
 			sourceTree = "<group>";
@@ -125,6 +147,30 @@
 				E83162CB2BFBFD0A001D06D1 /* TIMELY_OFFICIALUITestsLaunchTests.swift */,
 			);
 			path = TIMELY.OFFICIALUITests;
+			sourceTree = "<group>";
+		};
+		E83162E42BFE767A001D06D1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E83162D82BFE759D001D06D1 /* HomeView.swift */,
+				E83162DC2BFE75F9001D06D1 /* FullScheduleView.swift */,
+				E83162E22BFE765E001D06D1 /* AddFriendsView.swift */,
+				E83162E02BFE763B001D06D1 /* FriendsStatusView.swift */,
+				E83162DE2BFE7607001D06D1 /* StatsView.swift */,
+				E83162DA2BFE75D0001D06D1 /* CreateScheduleView.swift */,
+				E83162EA2BFE7F22001D06D1 /* ProfileView.swift */,
+				E83162EC2BFE9A21001D06D1 /* ChatView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E83162E52BFE7739001D06D1 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E83162E62BFE776C001D06D1 /* User.swift */,
+				E83162E82BFE7918001D06D1 /* Activities .swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +303,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E83162DD2BFE75F9001D06D1 /* FullScheduleView.swift in Sources */,
+				E83162D92BFE759D001D06D1 /* HomeView.swift in Sources */,
+				E83162DF2BFE7607001D06D1 /* StatsView.swift in Sources */,
 				E83162B12BFBFD09001D06D1 /* ContentView.swift in Sources */,
+				E83162ED2BFE9A21001D06D1 /* ChatView.swift in Sources */,
 				E83162AF2BFBFD09001D06D1 /* TIMELY_OFFICIALApp.swift in Sources */,
+				E83162E92BFE7918001D06D1 /* Activities .swift in Sources */,
+				E83162E72BFE776C001D06D1 /* User.swift in Sources */,
+				E83162E12BFE763B001D06D1 /* FriendsStatusView.swift in Sources */,
+				E83162E32BFE765E001D06D1 /* AddFriendsView.swift in Sources */,
+				E83162EB2BFE7F22001D06D1 /* ProfileView.swift in Sources */,
+				E83162DB2BFE75D0001D06D1 /* CreateScheduleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
