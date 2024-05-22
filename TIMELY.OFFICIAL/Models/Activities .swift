@@ -1,0 +1,8 @@
+//
+//  Activities .swift
+//  TIMELY.OFFICIAL
+//
+//  Created by Sa38 on 5/22/24.
+//
+
+import Foundation
